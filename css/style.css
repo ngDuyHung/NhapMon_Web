@@ -1532,7 +1532,7 @@ i.fa-animating {
 /**!----------------- Page-6 --------------------!**/
 .page-6 {
     position: relative;
-    background-image: url("../img/background5.png");
+    background-image: url("../img/Background5.png");
     height: 1045px;
     background-size: cover;
     overflow: hidden;
@@ -2070,7 +2070,7 @@ i.fa-animating {
 
 .page-8 {
     position: relative;
-    background-image: url("../img/backgroundFAQ.png");
+    background-image: url("../img/BackgroundFAQ.png");
     background-size: cover;
     height: 655px;
 }
